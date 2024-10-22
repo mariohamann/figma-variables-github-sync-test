@@ -116,11 +116,11 @@
       "defaultModeId": "1:0",
       "modes": {
         "0": {
-          "name": "Theme 1",
+          "name": "Default",
           "modeId": "1:0"
         },
         "1": {
-          "name": "Theme 2",
+          "name": "Alternative",
           "modeId": "1:1"
         },
         "2": {
