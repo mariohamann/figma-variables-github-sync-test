@@ -1,1 +1,132 @@
-"{\n  \"variables\": {\n    \"0\": {\n      \"id\": \"VariableID:1:4\",\n      \"name\": \"white\",\n      \"description\": \"\",\n      \"variableCollectionId\": \"VariableCollectionId:1:3\",\n      \"key\": \"8e81f694221c568d9d47a61cfb747cd8d75cbb64\",\n      \"remote\": false,\n      \"resolvedType\": \"COLOR\",\n      \"valuesByMode\": {\n        \"1:0\": {\n          \"r\": 1,\n          \"g\": 1,\n          \"b\": 1,\n          \"a\": 1\n        },\n        \"1:1\": {\n          \"r\": 0,\n          \"g\": 0,\n          \"b\": 0,\n          \"a\": 1\n        }\n      },\n      \"scopes\": {\n        \"0\": \"ALL_SCOPES\"\n      },\n      \"hiddenFromPublishing\": false,\n      \"codeSyntax\": {}\n    },\n    \"1\": {\n      \"id\": \"VariableID:1:5\",\n      \"name\": \"black\",\n      \"description\": \"\",\n      \"variableCollectionId\": \"VariableCollectionId:1:3\",\n      \"key\": \"cce09796edec2656d4b3114dbc461d694a7f9494\",\n      \"remote\": false,\n      \"resolvedType\": \"COLOR\",\n      \"valuesByMode\": {\n        \"1:0\": {\n          \"r\": 0.07058823853731155,\n          \"g\": 0.1921568661928177,\n          \"b\": 0.13725490868091583,\n          \"a\": 1\n        },\n        \"1:1\": {\n          \"r\": 1,\n          \"g\": 1,\n          \"b\": 1,\n          \"a\": 1\n        }\n      },\n      \"scopes\": {\n        \"0\": \"ALL_SCOPES\"\n      },\n      \"hiddenFromPublishing\": false,\n      \"codeSyntax\": {}\n    },\n    \"2\": {\n      \"id\": \"VariableID:19:2\",\n      \"name\": \"font\",\n      \"description\": \"\",\n      \"variableCollectionId\": \"VariableCollectionId:1:3\",\n      \"key\": \"324feefa991f0c0e2f69399ecebda041f9b740f9\",\n      \"remote\": false,\n      \"resolvedType\": \"STRING\",\n      \"valuesByMode\": {\n        \"1:0\": \"Instrument Serif\",\n        \"1:1\": \"Instrument Sans\"\n      },\n      \"scopes\": {\n        \"0\": \"ALL_SCOPES\"\n      },\n      \"hiddenFromPublishing\": false,\n      \"codeSyntax\": {}\n    }\n  },\n  \"variableCollections\": {\n    \"0\": {\n      \"id\": \"VariableCollectionId:1:3\",\n      \"name\": \"Primitive\",\n      \"hiddenFromPublishing\": false,\n      \"key\": \"40f64febd50aaf0cec94e1bf65211d65ef39ad44\",\n      \"defaultModeId\": \"1:0\",\n      \"modes\": {\n        \"0\": {\n          \"name\": \"Default\",\n          \"modeId\": \"1:0\"\n        },\n        \"1\": {\n          \"name\": \"Alternative\",\n          \"modeId\": \"1:1\"\n        }\n      },\n      \"remote\": false,\n      \"variableIds\": {\n        \"0\": \"VariableID:1:4\",\n        \"1\": \"VariableID:1:5\",\n        \"2\": \"VariableID:19:2\"\n      }\n    }\n  }\n}"
+{
+  "variables": {
+    "0": {
+      "id": "VariableID:1:4",
+      "name": "white",
+      "description": "",
+      "variableCollectionId": "VariableCollectionId:1:3",
+      "key": "8e81f694221c568d9d47a61cfb747cd8d75cbb64",
+      "remote": false,
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "1:0": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "1:1": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      "scopes": {
+        "0": "ALL_SCOPES"
+      },
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    "1": {
+      "id": "VariableID:1:5",
+      "name": "black",
+      "description": "",
+      "variableCollectionId": "VariableCollectionId:1:3",
+      "key": "cce09796edec2656d4b3114dbc461d694a7f9494",
+      "remote": false,
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "1:0": {
+          "r": 0.07058823853731155,
+          "g": 0.1921568661928177,
+          "b": 0.13725490868091583,
+          "a": 1
+        },
+        "1:1": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      },
+      "scopes": {
+        "0": "ALL_SCOPES"
+      },
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    "2": {
+      "id": "VariableID:19:2",
+      "name": "font",
+      "description": "",
+      "variableCollectionId": "VariableCollectionId:1:3",
+      "key": "324feefa991f0c0e2f69399ecebda041f9b740f9",
+      "remote": false,
+      "resolvedType": "STRING",
+      "valuesByMode": {
+        "1:0": "Instrument Serif",
+        "1:1": "Instrument Sans"
+      },
+      "scopes": {
+        "0": "ALL_SCOPES"
+      },
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    "3": {
+      "id": "VariableID:99:4",
+      "name": "lea-deluxe",
+      "description": "",
+      "variableCollectionId": "VariableCollectionId:1:3",
+      "key": "23de2aca8796bf41bf70df357facbd719ddd912e",
+      "remote": false,
+      "resolvedType": "COLOR",
+      "valuesByMode": {
+        "1:0": {
+          "r": 0.24854017794132233,
+          "g": 0.30564382672309875,
+          "b": 0.5911620855331421,
+          "a": 1
+        },
+        "1:1": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        }
+      },
+      "scopes": {
+        "0": "ALL_SCOPES"
+      },
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  },
+  "variableCollections": {
+    "0": {
+      "id": "VariableCollectionId:1:3",
+      "name": "Primitive",
+      "hiddenFromPublishing": false,
+      "key": "40f64febd50aaf0cec94e1bf65211d65ef39ad44",
+      "defaultModeId": "1:0",
+      "modes": {
+        "0": {
+          "name": "Default",
+          "modeId": "1:0"
+        },
+        "1": {
+          "name": "Alternative",
+          "modeId": "1:1"
+        }
+      },
+      "remote": false,
+      "variableIds": {
+        "0": "VariableID:1:4",
+        "1": "VariableID:1:5",
+        "2": "VariableID:19:2",
+        "3": "VariableID:99:4"
+      }
+    }
+  }
+}
